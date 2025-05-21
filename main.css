@@ -1,0 +1,19 @@
+body{
+   background-color: blue;
+
+}
+
+.separador{
+    height: 60px;
+}
+
+.container{
+    align-items: center;
+}
+
+.footer{
+    background-color: rgb(65, 62, 62); 
+    color: aliceblue; 
+    padding-left: 50px;
+    width: 100%;
+}
